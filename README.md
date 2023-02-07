@@ -2,8 +2,8 @@
 
 #  web application development  
 
-#university course 
+# university course 
 
 # Labs are labeled 
 
-#HTML/CSS/Javascript/Flask 
+# HTML/CSS/Javascript/Flask 
